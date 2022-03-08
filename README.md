@@ -1,3 +1,3 @@
-# Clase
+# ClaseBacan
 una clase
 Algo mas
