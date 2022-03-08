@@ -1,2 +1,2 @@
-# Clase
+# ClaseBacan
 una clase
